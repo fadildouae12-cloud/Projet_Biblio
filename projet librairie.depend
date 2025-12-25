@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1766138986 source:c:\users\hp\onedrive\bureau\projet\projet librairie\main.c
+	"structures.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<mysql.h>
+	"catalog.c"
+	"checkout.c"
+	"supplier_order.c"
+
+1765975555 source:c:\users\hp\onedrive\bureau\catalog.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1765975555 source:c:\users\hp\onedrive\bureau\checkout.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1765975555 source:c:\users\hp\onedrive\bureau\supplier_order.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1766003646 source:c:\users\hp\onedrive\bureau\projet\projet librairie\catalog.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structures.h"
+
+1765995357 source:c:\users\hp\onedrive\bureau\projet\projet librairie\supplier_order.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1765997511 source:c:\users\hp\onedrive\bureau\projet\projet librairie\checkout.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1766057989 c:\users\hp\onedrive\bureau\projet\projet librairie\structures.h
+
+1766011052 c:\users\hp\onedrive\bureau\projet\projet librairie\catalog.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structures.h"
+
+1766003825 c:\users\hp\onedrive\bureau\projet\projet librairie\checkout.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"structures.h"
+
+1766003825 c:\users\hp\onedrive\bureau\projet\projet librairie\supplier_order.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structures.h"
+
+1766590447 source:c:\users\administrateur\desktop\projet librairie\projet librairie\main.c
+	"structures.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<mysql.h>
+	"catalog.c"
+	"checkout.c"
+	"supplier_order.c"
+
+1766057989 c:\users\administrateur\desktop\projet librairie\projet librairie\structures.h
+
+1766011052 c:\users\administrateur\desktop\projet librairie\projet librairie\catalog.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structures.h"
+
+1766003825 c:\users\administrateur\desktop\projet librairie\projet librairie\checkout.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"structures.h"
+
+1766003825 c:\users\administrateur\desktop\projet librairie\projet librairie\supplier_order.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structures.h"
+
